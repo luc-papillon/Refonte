@@ -1,4 +1,5 @@
-# Projet rfonte de site web
+# Projet refonte de site web
+
 
 ## Documents à lire
 
@@ -12,7 +13,7 @@ Nous avons modifié l'aspect visuel mais nous avons gardé le fond de son site.
 
 ## Mail
 Voici le mail envoyé à M.PIERRE GODET 
-[mail]()
+[mail](https://github.com/luc-papillon/Refonte/blob/main/Mail.pdf)
 
 
 ## Auteurs
