@@ -2,7 +2,7 @@
 
 ## Documents à lire
 
-* Cliquez [ici](RefonteSite.docx)
+* Cliquez [Charte Graphique](RefonteSite)
 * Liste à puce
 
 
