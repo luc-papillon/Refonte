@@ -2,8 +2,8 @@
 
 ## Documents à lire
 
-* [Charte Graphique](https://github.com/luc-papillon/Refonte/blob/main/RefonteSite.docx)
-* []
+* [Cahier des charges]()
+* [Charte Graphique](https://github.com/luc-papillon/Refonte/blob/main/CharteGraph.pdf)
 
 
 
